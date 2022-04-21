@@ -13,6 +13,15 @@
 
 }
 
+.blue-large{
+    height: 100px;
+    background: #006cfa;
+    color: white;
+    border: solid 1px white;
+    position: relative;
+
+}
+
 .blue-cont{
     height: 100%;
     background: #006cfa;

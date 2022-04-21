@@ -23,6 +23,14 @@
     justify-content: center;
 }
 
+.align-center{
+    align-items: center;
+}
+
+.align-bottom{
+    align-items: flex-end;
+}
+
 /* regole colonna */
 
 [class*="col-"] {
