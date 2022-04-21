@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blue {
+    height: 50px;
+    background: #006cfa;
+    color: white;
+    border: solid 1px white;
+    position: relative;
+
+}
+
+.blue-cont{
+    height: 100%;
+    background: #006cfa;
+    color: white;
+    border: solid 1px white;
+    position: relative;
+    padding: 15px;
+
+}
+
+.green {
+    height: 50px;
+    background: green;
+    color: white;
+    border: solid 1px #006cfa;
+    position: relative;
+    text-align: center;
+
+}
+
+p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.last{
+    margin-bottom: 15px;
+}
